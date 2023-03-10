@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #E5E5E5;
+}
+.main-container{
+    width: 1440px;
+}
+.main-img{
+    background: url(../images/image\ 43.png);
+}
